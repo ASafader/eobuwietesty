@@ -7,7 +7,7 @@ Kroki:
 2. Zamknij alert o ciasteczkach
 3. Kliknij w kategorię „Damskie”
 4. Kliknij w pierwszy but
-5. 5. Kliknij w wybierz rozmiar
+5. Kliknij w wybierz rozmiar
 6. Wybierz pierwszy dostępny rozmiar
 7. Dodaj produkt do koszyka
 8. Przejdź do koszyka
